@@ -1,0 +1,10 @@
+name: compareATL03-06-08
+channels:
+  - conda-forge
+  - jmcmurray
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - json
+  - requests
